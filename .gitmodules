@@ -1,0 +1,6 @@
+[submodule "mateus_battisti/next_hello_world"]
+	path = mateus_battisti/next_hello_world
+	url = https://github.com/gabrielestefono/next_hello_world.git
+[submodule "mateus_battisti/pokenext"]
+	path = mateus_battisti/pokenext
+	url = https://github.com/gabrielestefono/pokenext.git
